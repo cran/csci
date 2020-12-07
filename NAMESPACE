@@ -1,0 +1,7 @@
+export("CSCI","controlCSCI")
+
+importFrom("stats", "IQR", "approx", "density", "dnorm", "isoreg",
+             "pnorm", "qbeta", "sd")
+
+
+importFrom("exactci","binom.exact")

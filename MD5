@@ -1,0 +1,9 @@
+a458ca8cc5a7c0ff3bea1a3878e776d3 *DESCRIPTION
+acf024b32cb6be75c1537e220712365a *NAMESPACE
+5c3bb81e8d6c4428c60fbd5a9bcb9efd *R/csci.R
+ca08fd6d823bbc6e80818451b87cfc5b *build/partial.rdb
+0a807cd03ecc9df5461eed940f0e4eb5 *data/hepABulg.rda
+90442570ae42a7c01402f8eb7f0f2388 *man/controlCSCI.Rd
+270a1bb236805b101ccf3b84133ca097 *man/csci-package.Rd
+c58cc6884e7cf494c59930e9ec228d20 *man/csci.Rd
+ee47ae800e61eda6a688ca0eb740870c *man/hepABulg.Rd
